@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81404324519",
+    "firebase_url": "https://kartaapplication.firebaseio.com",
+    "project_id": "kartaapplication",
+    "storage_bucket": "kartaapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81404324519:android:6a041a2b9b7cde79",
+        "android_client_info": {
+          "package_name": "com.example.karta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81404324519-scuvrbf73ebr9qecd23h5bmtri1f8jcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karta",
+            "certificate_hash": "c3f1fe8def9c597e2dab76de6577bfbd7454fc7d"
+          }
+        },
+        {
+          "client_id": "81404324519-027hm9j01aeli0mjqu2l0fbmtvndp4ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoKABRzL6bKxxfd5Qq_R9W47tCkqHRRzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81404324519-027hm9j01aeli0mjqu2l0fbmtvndp4ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
